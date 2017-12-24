@@ -1,0 +1,64 @@
+.container-fluid{
+    background-color:black;
+    height: 100px;
+    width:100%;
+    padding-top: 30px;
+    color:white;
+}
+
+.title{
+    font-size: 50px;
+    color:red
+}
+
+.home_text{
+    font-size: 20px;
+    color: black;
+    text-align: center
+}
+
+.nav-view{
+    display: flex;
+    flex: 1;
+    align-content: space-around
+}
+
+.item{
+   background-color: blanchedalmond 
+}
+
+.main-text{
+    font-size:20px;
+}
+
+.content{
+    display: flex;
+    flex-direction:row;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 100px;
+    padding-bottom: 50px 
+}
+
+.mycontent{
+    display: flex;
+    flex-direction:row;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    font-size:10px; 
+}
+
+.box{
+    font-size: 20px;
+    color: black;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-bottom: 50px; 
+}
+
+#ponit>li{
+    color:red
+}
